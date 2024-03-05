@@ -5,12 +5,11 @@
 To develop a neural network regression model for the given dataset.
 
 ## THEORY
-
-Explain the problem statement
+A neural network is a computer program inspired by how our brains work. It's used to solve problems by finding patterns in data. Imagine a network of interconnected virtual "neurons." Each neuron takes in information, processes it, and passes it along. A Neural Network Regression Model is a type of machine learning algorithm that is designed to predict continuous numeric values based on input data. It utilizes layers of interconnected nodes, or neurons, to learn complex patterns in the data. The architecture typically consists of an input layer, one or more hidden layers with activation functions, and an output layer that produces the regression predictions. This model can capture intricate relationships within data, making it suitable for tasks such as predicting prices, quantities, or any other continuous numerical outputs.
 
 ## Neural Network Model
+![image](https://github.com/Jeswanth21001768/basic-nn-model/assets/94155480/0731b851-25b3-41e2-8307-8f2189d78df0)
 
-Include the neural network model diagram.
 
 ## DESIGN STEPS
 
@@ -119,8 +118,7 @@ model.predict(X_n1_1)
 
 ### Include a screenshot of the dataset
 
-![image](https://github.com/Jeswanth21001768/basic-nn-model/assets/94155480/75f5cb56-2883-492f-9c28-397b8710c032)
-
+![image](https://github.com/Jeswanth21001768/basic-nn-model/assets/94155480/ec35f4f5-7529-430b-9fb6-607721e3be05)
 
 ## OUTPUT
 
@@ -136,9 +134,10 @@ model.predict(X_n1_1)
 
 ### New Sample Data Prediction
 
-![image](https://github.com/Jeswanth21001768/basic-nn-model/assets/94155480/e0999f69-80f0-4a94-8185-6b6e24feffe6)
+![image](https://github.com/Jeswanth21001768/basic-nn-model/assets/94155480/44b22e16-f878-43d1-9b87-c62236995df8)
 
 
 ## RESULT
-![image](https://github.com/Jeswanth21001768/basic-nn-model/assets/94155480/44b22e16-f878-43d1-9b87-c62236995df8)
+Thus the neural network regression model for the given dataset has been developed successfully.
+
 
